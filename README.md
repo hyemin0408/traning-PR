@@ -1,2 +1,2 @@
-# traning-PR
+# tranIing-PR
  PR 연습
